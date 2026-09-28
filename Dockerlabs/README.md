@@ -1,3 +1,3 @@
 # DockerLabs 🐳
 
-Write-ups de las máquinas de **DockerLabs**, documentando el proceso de resolución, las técnicas utilizadas y los principales aprendizajes obtenidos.
+<p align="center"> <img src="https://github.com/fybersec/Write-ups/blob/main/assets/dockerlab.png" width="600"> </p>
