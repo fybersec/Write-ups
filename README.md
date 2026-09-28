@@ -80,4 +80,13 @@ El contenido tiene fines **educativos y de aprendizaje en ciberseguridad**.
 
 ---
 
+
+| | |
+| :---: | :---: |
+| ![Imagen 1](https://github.com/fybersec/Write-ups/blob/main/assets/hackthebox.jpg) | ![Imagen 2](https://github.com/fybersec/Write-ups/blob/main/assets/tryhackme.png) |
+| ![Imagen 3](https://github.com/fybersec/Write-ups/blob/main/assets/hackthebox.jpg) | ![Imagen 4](https://github.com/fybersec/Write-ups/blob/main/assets/vulnhub.png) |
+
+
+---
+
 *Repositorio en desarrollo. Se irá ampliando con nuevos laboratorios, técnicas y aprendizajes.*
